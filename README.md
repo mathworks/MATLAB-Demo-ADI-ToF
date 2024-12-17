@@ -19,7 +19,7 @@ NOTE: The version of the MATLAB Runtime is tied to the version of MATLAB used to
 
 Camera Calibrator App 
 Example - Measuring penny size from an image
-https://www.mathworks.com/help/releases/R2019b/vision/examples/measuring-planar-objects-with-a-calibrated-camera.html
+https://www.mathworks.com/help/vision/ug/measuring-planar-objects-with-a-calibrated-camera.html
 
 MathWorks products required - 
 •	MATLAB
